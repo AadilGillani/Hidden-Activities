@@ -228,6 +228,16 @@
 			"name": "Sidebar",
 			"app": "com.miui.securitycenter",
 			"activity": "com.miui.dock.settings.DockSettingsActivity"
+		},
+		{
+			"name": "Test Activy 1",
+			"app": "com.",
+			"activity": "com."
+		},
+		{
+			"name": "Test Activy 2",
+			"app": "com.",
+			"activity": "com."
 		}
 	]
 }
