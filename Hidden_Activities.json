@@ -30,22 +30,22 @@
 			"activity": "com.android.settings.Settings$AssistGestureSettingsActivity"
 		},
 		{
-			"name": "SYSTEM_DASHBOARD_AOSP",
+			"name": "AOSP Dashboard",
 			"app": "com.android.settings",
 			"activity": "com.android.settings.Settings$SystemDashboardActivity"
 		},
 		{
-			"name": "NOTIFICATIONS_MIUI12",
+			"name": "MIUI 12 Notification",
 			"app": "com.android.settings",
 			"activity": "  com.android.settings.Settings$StatusBarSettingsActivity"
 		},
 		{
-			"name": "PAPER_ADJUST",
+			"name": "Paper Adjust",
 			"app": "com.android.settings",
 			"activity": "com.android.settings.display.PaperProtectionActivity"
 		},
 		{
-			"name": "PRIVACY_AOSP",
+			"name": "Privacy AOSP",
 			"app": "com.android.settings",
 			"activity": "  com.android.settings.Settings$PrivacyDashboardActivity"
 		},
@@ -60,7 +60,7 @@
 			"activity": "com.android.settings.display.ScreenEnhanceEngineSrActivity"
 		},
 		{
-			"name": "MIUI_PERFORMANCEMODE",
+			"name": "MIUI Performance Mode",
 			"app": "com.android.settings",
 			"activity": "com.android.settings.fuelgauge.PowerModeSettings"
 		},
@@ -70,7 +70,7 @@
 			"activity": "com.miui.aod.settings.AodStyleCategoriesActivity"
 		},
 		{
-			"name": "AOSP_DND/ZENMODE",
+			"name": "Zen Mode",
 			"app": "com.android.settings",
 			"activity": "com.android.settings.notification.zen.ZenOnboardingActivity"
 		},
@@ -80,7 +80,7 @@
 			"activity": "com.android.settings.Settings$AccessibilityDaltonizerSettingsActivity"
 		},
 		{
-			"name": "AOSP_NIGHTLIGHT",
+			"name": "AOSP Night Light",
 			"app": "com.android.settings",
 			"activity": "com.android.settings.Settings$NightDisplaySuggestionActivity"
 		},
@@ -90,7 +90,7 @@
 			"activity": "com.android.settings.Settings$UserSettingsActivity"
 		},
 		{
-			"name": "PAPER_ADJUST_V2",
+			"name": "Paper Adjust V2",
 			"app": "com.android.settings",
 			"activity": "com.android.settings.display.ClassicProtectionActivity"
 		},
@@ -105,17 +105,17 @@
 			"activity": "com.android.settings.Settings$NotificationAssistantSettingsActivity"
 		},
 		{
-			"name": "FALLBACK_HOME",
+			"name": "Fallback Home",
 			"app": "com.android.settings",
-			"activity": "com.android.settings.FallbackHome"
+			"activity": "Settings.FallbackHome"
 		},
 		{
 			"name": "Certificate Monitor",
 			"app": "com.android.settings",
-			"activity": "  com.android.settings.MonitoringCertInfoActivity"
+			"activity": "com.android.settings.MonitoringCertInfoActivity"
 		},
 		{
-			"name": "ACTIVITY_PICKER_MIUI",
+			"name": "MIUI Activity Picker",
 			"app": "com.android.settings",
 			"activity": "com.android.settings.ActivityPicker"
 		},
@@ -125,17 +125,17 @@
 			"activity": "com.android.settings.display.ScreenZoomActivity"
 		},
 		{
-			"name": "AOSP_NOTIFICATION_DASHBOARD",
+			"name": "AOSP Notification Dashboard",
 			"app": "com.android.settings",
 			"activity": "com.android.settings.Settings$ConfigureNotificationSettingsActivity"
 		},
 		{
-			"name": "MIUI_SETTINGS_DIALOG",
+			"name": "MIUI Settings Dialog",
 			"app": "com.android.settings",
 			"activity": "com.android.settings.settingspanel.MiuiSettingsPanelActivity"
 		},
 		{
-			"name": "Vision Settings_SETUP_WIZARD",
+			"name": "Vision Settings",
 			"app": "com.android.settings",
 			"activity": "com.android.settings.FontSizeSettingsForSetupWizardActivity"
 		},
@@ -170,7 +170,7 @@
 			"activity": "com.android.permissioncontroller.role.ui.DefaultAppListActivity"
 		},
 		{
-			"name": "MIUI_AGGREATE_NOTIF",
+			"name": "MIUI Group Notification",
 			"app": "com.miui.notification",
 			"activity": "miui.notification.management.activity.settings.AggregateSettingActivity"
 		},
@@ -190,7 +190,7 @@
 			"activity": "com.miui.permcenter.privacymanager.behaviorrecord.AppBehaviorRecordActivity"
 		},
 		{
-			"name": "Invisible Mode",
+			"name": "Incognito Mode",
 			"app": "com.miui.securitycenter",
 			"activity": "com.miui.permcenter.settings.InvisibleModeActivity"
 		},
