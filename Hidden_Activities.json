@@ -268,6 +268,31 @@
 			"name": "Android 6 Easter Egg",
 			"app": "com.android.systemui",
 			"activity": "com.android.systemui.egg.MLandActivity"
+		},
+		{
+			"name": "Control Center Media Player",
+			"app": "miui.systemui.plugin",
+			"activity": "miui.systemui.miplay.MiPlayDetailActivity"
+		},
+		{
+			"name": "Memory Status",
+			"app": "com.android.settings",
+			"activity": "com.android.settings.Settings$MemorySettingsActivity"
+		},
+		{
+			"name": "Emergency Details",
+			"app": "com.android.emergency",
+			"activity": "com.android.emergency.edit.EditInfoActivity"
+		},
+		{
+			"name": "Google Settings",
+			"app": "com.google.android.gms",
+			"activity": "com.google.android.gms.accountsettings.mg.ui.main.MainActivity"
+		},
+		{
+			"name": "Data Usage",
+			"app": "com.miui.securitycenter",
+			"activity": "com.miui.networkassistant.ui.activity.TrafficSortedActivity"
 		}
 	]
 }
