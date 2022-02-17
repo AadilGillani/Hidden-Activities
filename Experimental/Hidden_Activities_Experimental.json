@@ -230,14 +230,44 @@
 			"activity": "com.miui.dock.settings.DockSettingsActivity"
 		},
 		{
-			"name": "Test Activy 1",
-			"app": "com.",
-			"activity": "com."
+			"name": "Disaster Warning",
+			"app": "com.miui.securitycenter",
+			"activity": "com.miui.warningcenter.disasterwarning.WarningCenterDisasterActivity"
 		},
 		{
-			"name": "Test Activy 2",
-			"app": "com.",
-			"activity": "com."
+			"name": "Front Camera Assistant",
+			"app": "com.miui.securitycenter",
+			"activity": "com.miui.gamebooster.beauty.BeautySettingsActivity"
+		},
+		{
+			"name": "Emergency Location",
+			"app": "com.miui.securitycenter",
+			"activity": "com.miui.warningcenter.policeassist.PaSettingActivity"
+		},
+		{
+			"name": "Color Animations",
+			"app": "com.miui.securitycenter",
+			"activity": "com.miui.gamebooster.shoulderkey.ShoulderKeyLightEffectActivity"
+		},
+		{
+			"name": "Conversations",
+			"app": "com.android.settings",
+			"activity": "com.android.settings.Settings$ConversationListSettingsActivity"
+		},
+		{
+			"name": "Gesture Sensitivity",
+			"app": "com.android.settings",
+			"activity": "com.android.settings.Settings$GestureNavigationSettingsActivity"
+		},
+		{
+			"name": "Power Menu Settings",
+			"app": "com.android.settings",
+			"activity": "com.android.settings.Settings$PowerMenuSettingsActivity"
+		},
+		{
+			"name": "Android 6 Easter Egg",
+			"app": "com.android.systemui",
+			"activity": "com.android.systemui.egg.MLandActivity"
 		}
 	]
 }
