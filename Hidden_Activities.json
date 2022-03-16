@@ -293,6 +293,41 @@
 			"name": "Data Usage",
 			"app": "com.miui.securitycenter",
 			"activity": "com.miui.networkassistant.ui.activity.TrafficSortedActivity"
+		},
+		{
+			"name": "Boost Charging Speed",
+			"app": "com.miui.securitycenter",
+			"activity": "com.miui.powercenter.fastCharge.FastChargeActivity"
+		},
+		{
+			"name": "Mi Smart Hub",
+			"app": "com.milink.service",
+			"activity": "com.miui.circulate.world.CirculateWorldActivity"
+		},
+		{
+			"name": "Battery Information",
+			"app": "com.bsp.catchlog",
+			"activity": "com.bsp.catchlog.battery.BatteryInfoActivity"
+		},
+		{
+			"name": "CIT Mode",
+			"app": "com.miui.cit",
+			"activity": "com.miui.cit.view.CitAlertDialog"
+		},
+		{
+			"name": "Notification History",
+			"app": "com.android.settings",
+			"activity": "com.android.settings.notification.history.NotificationHistoryActivity"
+		},
+		{
+			"name": "Notification Log",
+			"app": "com.android.settings",
+			"activity": "com.android.settings.Settings$NotificationStationActivity"
+		},
+		{
+			"name": "Extra Dim",
+			"app": "com.android.settings",
+			"activity": "com.android.settings.Settings$ReduceBrightColorsSettingsActivity"
 		}
 	]
 }
